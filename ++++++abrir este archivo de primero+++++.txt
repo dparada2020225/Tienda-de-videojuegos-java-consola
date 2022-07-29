@@ -1,0 +1,8 @@
+este trabajo lo hice solo
+
+
+
+Denil José Parada Cabrera 
+2020225
+
+elimine este archivo despues de leerlo para que no hallan errores al momento de compilar el proyecto
